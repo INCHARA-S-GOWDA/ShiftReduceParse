@@ -7,4 +7,5 @@ E →E+T | T
 T →T*F | F
 
 F → (E) | id 
+
 and parse the sentence: id + id * id.
