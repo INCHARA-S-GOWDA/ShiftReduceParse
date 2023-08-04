@@ -1,5 +1,5 @@
 # ShiftReduceParse
- Design, develop and implement YACC/C program to demonstrate Shift Reduce Parsing technique
+ Design, develop and implement C program to demonstrate Shift Reduce Parsing technique
 for the grammar rules:
 
 E →E+T | T
